@@ -16,5 +16,5 @@ About Page - This contains few details about the bakery.
 
 Bakers - This page contains a gallery of the bakers.
 
-Live Url = https://abdulsamadayoade.github.io/Bakery
+Live Url = https://ahmadrzaa.github.io/cake-bakery/
 
